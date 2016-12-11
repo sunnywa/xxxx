@@ -30,9 +30,6 @@
 #case > div.w > ul > li:nth-child(4n){
 	padding-right: 0;
 }
-#case .w .case_img{
-	display: block;
-}
 #case .w .case_page{
 	line-height: 292px;
 	text-align: center;
