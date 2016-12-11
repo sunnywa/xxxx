@@ -1,0 +1,8 @@
+#case .w .case_img li{
+	margin-bottom: 11px;
+}
+#case > div.w > ul > li:nth-child(4n){
+	padding-right: 0;
+}
+
+
